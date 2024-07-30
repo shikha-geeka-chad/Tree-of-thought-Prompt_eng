@@ -79,7 +79,7 @@ Made with ❤️ by SHIKHA
 </p>
 
 <p align="center">
-<a href="https://www.analyticsvidhya.com/blog/2024/07/tree-of-thoughts/">
+<a href="https://www.analyticsvidhya.com/blog/2024/07/tree-of-thoughts/?utm_source=social%20&utm_medium=github">
  <img src="https://img.shields.io/badge/Read%20the%20Article-Tree%20of%20Thoughts%20in%20Prompt%20Engineering-green?style=for-the-badge" alt="Read the Article">
 </a>
 </p>
