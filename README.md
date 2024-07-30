@@ -4,7 +4,7 @@
 
 Welcome to the Tree of Thoughts repository! This project explores an innovative prompt engineering technique that revolutionizes how AI models approach problem-solving and creative tasks.
 
-> 📚 **Read the full article**: [Tree of Thoughts in Prompt Engineering](https://www.analyticsvidhya.com/blog/2024/07/tree-of-thoughts/)
+> 📚 **Read the full article**: [Tree of Thoughts in Prompt Engineering](https://www.analyticsvidhya.com/blog/2024/07/tree-of-thoughts/?utm_source=social%20&utm_medium=github)
 
 ## 📚 Table of Contents
 
